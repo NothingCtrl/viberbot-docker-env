@@ -1,0 +1,7 @@
+chatterbot
+chatterbot_corpus
+flask
+viberbot
+python-Levenshtein
+pytz
+gunicorn
